@@ -96,4 +96,38 @@
 }
 
 
+/* Hero section under navbar */
+.hero-section {
+    background-color: #f5f7fa;
+    padding: 4rem 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.hero-content {
+    max-width: 800px;
+    text-align: center;
+}
+
+.hero-title {
+    font-size: 2.5rem;
+    color: #222;
+    margin-bottom: 1.5rem;
+}
+
+.hero-text {
+    font-size: 1.125rem;
+    color: #444;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+}
+
+.hero-call {
+    margin-top: 2rem;
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #0077cc;
+}
+
+
 
