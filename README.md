@@ -20,10 +20,5 @@ Icons and text centered with proper spacing
 
 Responsive layout for different screen sizes
 
-🚀 How to Run
-Clone the repository:
-
-bash
-
-git clone https://github.com/your-username/driving-school-website.git
-Open index.html in your browser.
+## 🌐 Live Demo
+Check out the live demo: [Website-Template Live](https://github.com/eyy4k/Website-Template/deployments/github-pages)
